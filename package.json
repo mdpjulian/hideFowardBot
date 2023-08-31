@@ -1,0 +1,15 @@
+{
+  "name": "hidefowardbot",
+  "version": "1.0.0",
+  "description": "Telegram bot that resends any msg it receives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "mdpjulian",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}
